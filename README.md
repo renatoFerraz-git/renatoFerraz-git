@@ -13,6 +13,14 @@
   
 Muito Prazer, meu nome é Renato Ferraz, sou estudante de Análise e Desenvolvimento de Sistemas e aluno Alura voltado para formação .NET. Dês de que passei a estudar programação, desenvolvi minha capacidade de resolução de problemas, flexibilidade, dinamismo e relacionamento pessoal com a linguagem C #. Atualmente tomei a decisão de me tornar um desenvolvedor e encarar novos desafios, tenho estudado diariamente tudo relacionado a linguagem C #, Orientação a Objeto, Lógica de Programação e mais recentemente começar a procurar uma formação em .NET, procuro uma oportunidade de transitar de carreira e começar a trabalhar como dev training ou júnior.
 ##
+
+ <div align="center">
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatoFerraz-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoFerraz-git&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
 <div style="display: inline_block"><br>
   <a href="https://cursos.alura.com.br/user/renatoferraz">
   <img align="center" alt="Ferraz-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
