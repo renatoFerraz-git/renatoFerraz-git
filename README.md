@@ -34,7 +34,7 @@
   
 </a>
 </a> 
-  <a href = "mailto:renato.qodeless@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renato.qodeless@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatoferraz-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://cursos.alura.com.br/user/renatoferraz" target="_blank"><img height="30em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-5sQ7hBOyDE0%2FWs8EmhAZFrI%2FAAAAAAAAABE%2F3DetGsAQzZg3iHdY73k0N52iCH43ulYagCLcBGAs%2Fs320%2FLogo_Alura.png&f=1&nofb=1" target="_blank"></a> 
  
